@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hjwasim</h1>
-<h3 align="center">A passionate devop and cloud enthusiast from India</h3>
+<h3 align="center">A passionate dev and cloud enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hjwasim&label=Profile%20views&color=0e75b6&style=flat" alt="hjwasim" /> </p>
 
