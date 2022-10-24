@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hjwasim&label=Profile%20views&color=0e75b6&style=flat" alt="hjwasim" /> </p>
 
-- 💬 Ask me about **Java, Spring, React, Nodejs, Google Cloud and Docker**
+- 💬 Ask me about **Java, Spring, React, Python, Google Cloud and Docker**
 
 - 📫 How to reach me **hjwasim001@gmail.com**
 
